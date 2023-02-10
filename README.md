@@ -1,11 +1,11 @@
-# ezweb usage
-Import ezweb like this
+# nopain usage
+Import nopain like this
 ```js
-require { ezweb } = require("ezweb")
+require { nopain } = require("nopain")
 ```
-then use this line of code below to create a webserver painlessly.
+then use this line of code below to create a webserver way too easy.
 ```js
-ezweb("public", 4200)
+nopain("public", 4200)
 ```
 You can change the "public" in the example to anything you want.
 The given folder will be the root (/) of the website.
