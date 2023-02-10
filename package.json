@@ -1,8 +1,8 @@
 {
-  "name": "ezweb",
+  "name": "nopain",
   "version": "1.0.0",
-  "description": "ezweb creates a webserver with no effort",
-  "main": "lib/ezweb.js",
+  "description": "nopain creates a webserver with no effort",
+  "main": "lib/nopain.js",
   "dependencies": {
     "express": "^4.18.2"
    },
@@ -27,7 +27,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/SevenworksDev/ezweb.git"
+    "url": "git://github.com/SevenworksDev/nopain.git"
   },
   "author": "SevenworksDev",
   "license": "MIT"
