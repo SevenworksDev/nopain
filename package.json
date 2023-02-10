@@ -25,6 +25,10 @@
     "css",
     "www"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SevenworksDev/ezweb.git"
+  }
   "author": "SevenworksDev",
   "license": "MIT"
 }
