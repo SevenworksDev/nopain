@@ -1,6 +1,6 @@
 {
   "name": "nopain",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "nopain creates a webserver with no effort",
   "main": "lib/nopain.js",
   "dependencies": {
