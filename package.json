@@ -1,0 +1,30 @@
+{
+  "name": "ezweb",
+  "version": "1.0.0",
+  "description": "ezweb creates a webserver with no effort",
+  "main": "lib/ezweb.js",
+  "dependencies": {
+    "express": "^4.18.2"
+   },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" & exit 1"
+  },
+  "keywords": [
+    "web",
+    "website",
+    "webserver",
+    "server",
+    "easy",
+    "painless",
+    "express",
+    "expressjs",
+    "utility",
+    "tool",
+    "html",
+    "css",
+    "www"
+  ],
+  "author": "SevenworksDev",
+  "license": "MIT"
+}
